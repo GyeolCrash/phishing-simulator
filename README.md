@@ -2,14 +2,14 @@
 
 
 ## Description
-* This project is designed in the Department of Software at Soongsil University
-* The project aims to enhacne the public's ability to handle voice phishing
+* This project is designed in the Department of Software at Soongsil University.
+* The project aims to enhacne the public's ability to handle voice phishing.
 
 
 ## Element
-* app-client : Android Application for Clent
-* gateway    : API Server between app-client and llm server
-* llm        : llm server for LLM attacker
+* app-client : Android application for Clent
+* gateway    : API server between app-client and llm server
+* llm        : LLM server for LLM attacker
 
 ## Directory
 ```bash
