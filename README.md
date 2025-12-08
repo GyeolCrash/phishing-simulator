@@ -7,12 +7,15 @@
 * llm        : llm server for LLM attacker
 
 ## Directory
+```bash
 /app-client     (Android application repository submodule)
 /gateway        (Gateway repository submodule)
 /llm            (LLM server repository submodule)
+```
 
 ## Clone
-bash```
+```bash
 git clone https://github.com/GyeolCrash/pishing-simulator
 git submodule update --init --recursive
 ```
+
