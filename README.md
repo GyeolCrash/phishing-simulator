@@ -1,4 +1,9 @@
-# pishing-simulator
+# phishing-simulator
+
+
+## Description
+* This project is designed in the Department of Software at Soongsil University
+* The project aims to enhacne the public's ability to handle voice phishing
 
 
 ## Element
@@ -15,7 +20,7 @@
 
 ## Clone
 ```bash
-git clone https://github.com/GyeolCrash/pishing-simulator
+git clone https://github.com/GyeolCrash/phishing-simulator
 git submodule update --init --recursive
 ```
 
