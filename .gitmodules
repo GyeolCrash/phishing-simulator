@@ -1,0 +1,9 @@
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/GyeolCrash/pishing-simulator-gateway
+[submodule "client-app"]
+	path = client-app
+	url = https://github.com/umgeunchan/phishing-simulator
+[submodule "llm"]
+	path = llm
+	url = https://github.com/voice-phishing-simulation-llm/llm
