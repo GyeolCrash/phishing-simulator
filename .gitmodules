@@ -6,4 +6,4 @@
 	url = https://github.com/umgeunchan/phishing-simulator
 [submodule "llm"]
 	path = llm
-	url = https://github.com/voice-phishing-simulation-llm/llm
+	url = https://github.com/voice-phishing-simulation-llm/llm/tree/claude/add-scenario-files-018sQNfnsYx2AxVAqvwqD2NQ
